@@ -1,119 +1,120 @@
-# Rodrigo Honorio – Data Analyst
+<div align="center">
+  <h1><ins>Rodrigo Honorio</ins></h1>
+  <h3>Data Analyst | Mechanical Engineer & Programmer</h3>
+  <p>Keen on turning data into actionable insights and sprucing up processes through a bit of tech.</p>
+</div>
 
-I'm a Mechanical Engineer and Programmer with a strong interest in data analysis, automation, and technology.  
-This repository showcases some of my skills, projects, and learning journey in the world of data.
+---
 
+## 🚀 Having a Go at Data: My Analysis Bootcamp
 
-# 📚 Data Analysis Bootcamp | Weekly Workbooks & Projects
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+</p>
 
 **Programme:** Data Technician Bootcamp (UK)  
-**Tools Used:** Excel, Power BI, Tableau, SQL, Python (Pandas), Microsoft Azure, Power Query, Matplotlib, DAX, VLOOKUP/XLOOKUP, PivotTables  
-**Focus Areas:** Data Preparation, Analysis, Dashboarding, Visualisation, Cloud Services, SQL Queries, Python Scripting, GDPR & Data Ethics
+**Tools I've Got to Grips With:** Excel, Power BI, Tableau, SQL, Python (Pandas), Microsoft Azure, Power Query, Matplotlib, DAX, VLOOKUP/XLOOKUP, Pivot Tables  
+**Areas I've Been Focusing On:** Data Prep and Cleaning, Having a Look at Data, Whipping Up Dashboards, Making Data Look Good, Cloud Solutions, Knocking Up SQL Queries, Automating with Python, Keeping on Top of GDPR & Data Ethics
 
 ---
 
-## 📊 Overview
+## 🗺️ My Learning Journey Laid Out
 
-This repository documents my learning journey as part of a data analysis bootcamp. Each workbook contains weekly tasks, reflections, and applied exercises across a range of data tools and scenarios — from Excel and Power BI labs to Python, SQL, and data ethics.
-
----
-
-## 📂 Contents
-
-| Week | Focus | Highlight |
-|------|-------|----------|
-| [Week 1](Workbooks/Week_1/) | Excel & Data Governance | VLOOKUP, Pivot Tables, DPA, GDPR |
-| [Week 2](Workbooks/Week_2/) | Power BI & Dashboards | Spotify & NHS dashboards |
-| [Week 3](Workbooks/Week_3/) | SQL & Data Relationships | Inner/Outer Joins, RDBMS structure |
-| [Week 5](Workbooks/Week_5/) | Cloud Platforms & Visualisation | Azure Data Tools, Power BI design |
-| [Week 6](Workbooks/Week_6/) | Python & Data Wrangling | Pandas pivoting, matplotlib charts |
+This repository's a record of how I've been getting on in the world of data analysis during an intensive bootcamp. You'll find my weekly bits of work, my thoughts on things, and how I've been putting various tools and ideas into practice — from the basics of Excel and Power BI right through to wrangling data with Python, SQL queries, and why data ethics is a must.
 
 ---
 
-## 🖼️ Visual Highlights
+## 📂 What's What in Here
 
-### 📘 Week 1 – Excel Essentials: Lookups, Pivot Tables & Segmentation
+| Week     | Main Focus                   | Key Thing I Did                               |
+|----------|------------------------------|-----------------------------------------------|
+| [Week 1](Workbooks/Week_1/) | Excel and Data Governance  | VLOOKUP/XLOOKUP, Pivot Tables, DPA, GDPR        |
+| [Week 2](Workbooks/Week_2/) | Power BI and Fancy Visuals | Spotify and NHS dashboards I knocked together      |
+| [Week 3](Workbooks/Week_3/) | SQL and How Databases Link Up | Inner/Outer Joins, RDBMS structure explained      |
+| [Week 5](Workbooks/Week_5/) | Cloud and Data Scenarios   | Azure Data Tools, Dashboard design in Power BI    |
+| [Week 6](Workbooks/Week_6/) | Python for Data Crunching  | Pandas pivoting, Charts with Matplotlib          |
 
-#### 🔍 VLOOKUP/XLOOKUP Formula in Action
+---
+
+## 🖼️ Have a Gander at Some Visuals
+
+### 📘 Week 1 – Excel Essentials: Looking Things Up, Summing Up, and Breaking Things Down
+
+#### 🔍 The Magic of VLOOKUP/XLOOKUP in Action
 
 ![VLOOKUP Formula Example](Assets/week1_lookup_formula_example.png)  
-*Dynamic lookup between tables using VLOOKUP/XLOOKUP to match and retrieve employee details.*
+*Using VLOOKUP/XLOOKUP to dynamically find info between tables, like employee details.*
 
 ---
 
-#### 📊 Pivot Table: Bike Sales Summary
+#### 📊 The Power of Pivot Tables: Bike Sales Breakdown
 
 ![Bike Sales Pivot Table](Assets/week1_bike_sales_pivot_table.png)  
-*Summarised sales performance by region and product using Excel PivotTables.*
+*Summing up how sales are doing by region and product, using the handy Pivot Tables in Excel.*
 
 ---
 
-#### 🔄 SWITCH Function: Sales Segmentation
+#### 🔄 Clever Stuff with the SWITCH Function: Sorting Sales Performance
 
 ![SWITCH Function Example](Assets/week1_switch_function_example.png)  
-*Custom sales performance categorisation using SWITCH logic — classifying sales as High, Medium, or Low and linking to segmented summary.*
+*Customising how sales performance is categorised (High, Medium, Low) using the SWITCH function, all linked up to the summary.*
 
-This week built my foundation in Excel and helped me understand how structured functions and summarisation tools like pivot tables can reveal hidden trends quickly.
+This week really got me sorted with the basics of Excel, showing how structured functions and summing-up tools like pivot tables can quickly show you what's what.
 
 ---
 
-### 📘 Week 2 – Data Visualisation with Tableau
+### 📘 Week 2 – Making Data Look Good with Tableau
 
-#### 🎵 Spotify Music Trends Dashboard
+#### 🎵 Unpacking Music Trends with the Spotify Dashboard
 
 ![Spotify Dashboard](Assets/week2_tableau_spotify_dashboard.png)  
-*Explored listening trends across genres using Tableau — highlighting energy, danceability, and popularity for user engagement insights.*
+*Having a look at listening habits across different music types in Tableau, focusing on energy, danceability, and popularity to see what gets people going.*
 
 ---
 
-#### 📈 UK Job Change (EMSI Dataset)
+#### 📈 Looking at Job Changes in the UK (EMSI Dataset)
 
 ![EMSI Job Change Dashboard](Assets/week2_tableau_jobchange_dashboard.png)  
-*Visualised employment changes using bar charts and a UK map — highlighting sector impact across major cities.*
+*Showing how employment's changed using bar charts and a map of the UK, highlighting which sectors are doing what in the big cities.*
 
 ---
 
-#### 🏥 NHS Health Insights Dashboard
+#### 🏥 Health Insights from the NHS in a Handy Dashboard
 
 ![NHS Health Dashboard](Assets/week2_tableau_nhs_dashboard.png)  
-*Analysed life expectancy, obesity, and cancer rates across regions to support health service planning and trend analysis.*
+*Analysing life expectancy, obesity levels, and cancer rates by region to help with health service planning and spotting trends.*
 
-
-This week helped me develop practical skills in both Tableau and Power BI. I used Tableau to create interactive dashboards that communicated real-world insights from music and healthcare data, while the Power BI labs strengthened my understanding of data loading, transformation, and report design.
+This week really boosted my practical skills with both Tableau and Power BI. I used Tableau to knock up interactive dashboards that showed real-world insights from music and health data, while the Power BI labs helped me get my head around loading data, changing it about, and designing reports.
 
 ---
 
-### 📘 Week 3 – SQL & Relational Database Design
+### 📘 Week 3 – SQL and How Relational Databases Hang Together
 
-#### 🔄 SQL Join Query Example
+#### 🔄 Making Sense of Data with SQL JOIN Queries
 
 ![SQL Join Query](Assets/week3_sql_joins.png)  
-*Used JOIN operations to combine related tables and retrieve connected data.*
+*Using JOIN operations to bring together related tables and get the info I needed.*
 
 ---
 
-#### 🏗️ Database Design & Table Structures
+#### 🏗️ How Databases are Put Together and Table Structures
 
 ![Database Design](Assets/week3_database_design.png)  
-*Outlined the structure of a retail business database using SQL table definitions and explained how relational models support scalable analysis.*
+*Outlining the structure of a database for a shop using SQL table definitions and explaining how these linked-up models help with bigger analyses.*
 
 ---
 
-#### 📊 SQL Practical Query Outputs
+#### 📊 What SQL Queries Actually Show
 
 ![SQL Query Outputs](Assets/week3_sql_practical_outputs.png)  
-*Ran filtering and aggregation queries using real-world datasets to count entries, apply conditions, and explore relationships between data tables.*
+*Running queries to filter and group data using real-world datasets to count things, set conditions, and see how different bits of data relate to each other.*
 
-
-In Week 3, I focused on relational database design and SQL querying. I practised using JOIN operations, filtering queries, and building table structures for a fictional retail business. These exercises improved my confidence in reading and writing SQL for structured data.
+In Week 3, I was all about how relational databases are designed and how to query them with SQL. I practised using JOIN operations, filtering queries, and setting up table structures for a pretend shop. This made me much more confident in reading and writing SQL to get at structured data.
 
 ---
 
@@ -121,69 +122,65 @@ Week 4 – Career Development Week (non-technical – no workbook submitted)
 
 ---
 
-### 📘 Week 5 – Cloud Platforms, Azure Labs & Scenario Planning
+### 📘 Week 5 – Cloud Platforms, Azure Labs, and Thinking About What Could Happen
 
-#### ☁️ Azure Labs Overview
+#### ☁️ A Look at the Azure Labs
 
 ![Azure Labs Combined](Assets/week5_azure_labs_combined.png)  
-*Completed guided labs on relational data, non-relational data, and analytics services in Azure. This included exploring data lake storage, SQL databases, and using Azure Synapse for querying.*
+*Working through guided labs on relational data, non-relational data, and how Azure does analytics. This included having a go with data lake storage, SQL databases, and using Azure Synapse for queries.*
 
 ---
 
-#### 🐾 Azure Recommendations – Paws & Whiskers Case Study
+#### 🐾 Azure Ideas – The Paws & Whiskers Case Study
 
 ![Azure Recommendations](Assets/week5_azure_recommendations.png)  
-*Proposed a cloud architecture solution using Azure Data Factory, Power BI, and Blob Storage to modernise a pet supply company's data pipeline.*
+*Putting forward a cloud setup using Azure Data Factory, Power BI, and Blob Storage to bring a pet supply company's data handling into the modern age.*
 
-
-This week deepened my understanding of cloud platforms and data architecture. I explored how Azure handles relational and non-relational data, and applied that knowledge to design a real-world solution for a fictional business.
-I explored how data flows through cloud-based systems and gained a clearer view of where analysts and data engineers fit within that process.
+This week really deepened my understanding of cloud platforms and how data systems are put together. I looked at how Azure deals with different types of data and used that knowledge to come up with a real-world solution for a made-up business. I got a clearer picture of how data moves through cloud systems and where analysts and data engineers fit into all that.
 
 ---
 
-### 📘 Week 6 – Python & Jupyter for Data Analysis
+### 📘 Week 6 – Python and Jupyter for Having a Good Look at Data
 
-#### 🧮 Data Cleaning & Exploration (Student Dataset)
+#### 🧮 Tidying Up and Exploring Data (Student Dataset)
 
 ![Student Data Cleaning](Assets/week6_student_data_cleaning.png)  
-*Loaded and explored student data using Pandas; cleaned missing values and reviewed summary statistics.*
+*Loading up and having a look at student data using Pandas; sorting out missing bits and bobs and checking out the main stats.*
 
 ---
 
-#### 📊 Grouped Aggregation & Pivot Table
+#### 📊 Grouping Things and Using Pivot Tables
 
 ![Pivot Table Aggregation](Assets/week6_pivot_aggregation.png)  
-*Created grouped views of student performance by class and gender using Pandas and pivot tables.*
+*Creating grouped views of how students are doing by class and gender using Pandas and pivot tables.*
 
 ---
 
-#### 🌍 GDP per Capita Analysis
+#### 🌍 Analysing GDP per Person
 
 ![GDP Analysis](Assets/week6_gdp_analysis.png)  
-*Analysed GDP per capita across countries and UN regions, filtering and slicing data programmatically.*
+*Looking at GDP per capita across different countries and UN regions, filtering and slicing the data using code.*
 
- 
-In Week 6, I applied Python and the Pandas library to explore, clean, manipulate, and analyse datasets programmatically using Jupyter Notebook. I worked with both structured (student.csv) and real-world data (GDP per capita), performing grouping, aggregation, and pivoting. I also practised data visualisation using Matplotlib, Seaborn, and Plotly, enhancing my ability to present trends and patterns clearly and interactively.
-
----
-
-## ✅ Skills Developed
-
-- Excel lookups, pivot tables, and automation functions
-- RDBMS concepts and SQL query writing
-- Power BI dashboarding and DAX basics
-- Python for data wrangling and visualisation
-- Understanding of GDPR, data ethics, and cloud services (Azure)
-- Created interactive dashboards in Tableau Public for location-based and trend analyses using real-world datasets such as EMSI (UK Job Changes) and Spotify listening trends.
-- Familiarity with **cloud computing concepts** and tools, including Azure data services
+In Week 6, I used Python and the Pandas library to explore, clean up, change about, and analyse datasets using Jupyter Notebook. I worked with structured data (student.csv) and real-world data (GDP per capita), doing grouping, summing up, and pivoting. I also had a go at making data look good with Matplotlib, Seaborn, and Plotly, which has really helped me show trends and patterns clearly and interactively.
 
 ---
 
-## 🎯 Reflections
+## ✅ Skills I've Picked Up
 
-These workbooks reflect my progression as a data analyst in training — balancing technical skills, written analysis, and critical thinking. Each week presented new challenges and opportunities to build confidence across the data lifecycle.
+- Getting the hang of Excel lookups, pivot tables, and making things automatic
+- Understanding how RDBMS works and writing SQL queries that do the job
+- Putting together dashboards and understanding the basics of DAX in Power BI
+- Using Python to wrangle data and make it visual
+- Knowing about GDPR, data ethics, and cloud services (Azure)
+- Creating interactive dashboards in Tableau Public to see location-based stuff and trends, using real-world datasets like EMSI (UK Job Changes) and Spotify listening habits.
+- Getting familiar with **cloud computing concepts** and tools, including Azure data services
 
 ---
 
-👋 **Let’s connect!**  
-Feel free to explore more of my work on [GitHub](https://github.com/RodrigoHonorio)
+## 🎯 My Thoughts on How It's Going
+
+These workbooks show how I'm coming along as someone learning to be a data analyst — balancing the technical bits, writing up my analysis, and thinking critically. Each week threw up new challenges and chances to get more confident with the whole data process.
+
+---
+
+👋 **Fancy a Chat?** Feel free to have a proper look at more of my work on [GitHub](https://github.com/RodrigoHonorio)
