@@ -1,3 +1,9 @@
+# Rodrigo Honorio – Data Analyst
+
+I'm a Mechanical Engineer and Programmer with a strong interest in data analysis, automation, and technology.  
+This repository showcases some of my skills, projects, and learning journey in the world of data.
+
+
 # 📚 Data Analysis Bootcamp | Weekly Workbooks & Projects
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
